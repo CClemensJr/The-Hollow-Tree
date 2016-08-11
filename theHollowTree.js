@@ -6,7 +6,7 @@ confirm("Shall we begin?");
 // Determine player age for some reason
 var age = prompt("What is your age?");
 
-if age <  13
+if (age > 13)
 {
 	console.log("A fine age to play!");
 }
