@@ -1,0 +1,1 @@
+//This is a text adventure game made in JavaScript
